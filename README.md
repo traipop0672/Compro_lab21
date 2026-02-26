@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ไตรภพ วิเชียรสาร  
+# STUDENT ID: 680610676
